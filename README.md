@@ -1,1 +1,1 @@
-
+Software Construction is a class that is taught by Dr. Xuechao Li at Auburn University. Software Construction is both a course on managing the complexity of large systems and an applied programming class.
